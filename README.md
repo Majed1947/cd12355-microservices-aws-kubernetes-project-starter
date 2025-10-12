@@ -22,3 +22,4 @@ Microservices-based analytics application deployed on AWS EKS using Infrastructu
 
 ## Technologies
 Python, Flask, PostgreSQL, Docker, Kubernetes, AWS (EKS, ECR, CodeBuild, CloudWatch)
+# Updated Sun Oct 12 11:33:34 AM UTC 2025
